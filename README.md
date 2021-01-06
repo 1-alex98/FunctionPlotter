@@ -1,2 +1,2 @@
 # FunctionPlotter
-Sample code for leacture
+Sample code for lecture
